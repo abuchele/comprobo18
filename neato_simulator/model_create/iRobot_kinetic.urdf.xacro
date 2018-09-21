@@ -6,7 +6,7 @@
   <xacro:include filename="$(find neato_simulator)/model_create/axis.urdf.xacro"/>
   <xacro:include filename="$(find neato_simulator)/model_create/wheel.urdf.xacro"/>
   <xacro:include filename="$(find neato_simulator)/model_create/shelf.urdf.xacro"/>
-  <xacro:include filename="$(find neato_simulator)/gazebo/iRobot.gazebo.xacro"/>
+  <xacro:include filename="$(find neato_simulator)/gazebo/iRobot_kinetic.gazebo.xacro"/>
   <xacro:include filename="$(find neato_simulator)/model_create/hokuyo.urdf.xacro"/>
   <xacro:include filename="$(find neato_simulator)/model_create/imu.urdf.xacro"/>
 
